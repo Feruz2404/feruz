@@ -1,4 +1,4 @@
-8import sys
+import sys
 import json
 from PyQt5.QtWidgets import QApplication, QMainWindow, QAction, QTextEdit, QMessageBox, QFileDialog
 
